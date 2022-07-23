@@ -1,0 +1,10 @@
+C:\Users\ahmet\source\repos\ahmet_180201802\ahmet_180201802\bin\Debug\ahmet_180201802.exe.config
+C:\Users\ahmet\source\repos\ahmet_180201802\ahmet_180201802\bin\Debug\ahmet_180201802.exe
+C:\Users\ahmet\source\repos\ahmet_180201802\ahmet_180201802\bin\Debug\ahmet_180201802.pdb
+C:\Users\ahmet\source\repos\ahmet_180201802\ahmet_180201802\obj\Debug\ahmet_180201802.csprojAssemblyReference.cache
+C:\Users\ahmet\source\repos\ahmet_180201802\ahmet_180201802\obj\Debug\ahmet_180201802.Form1.resources
+C:\Users\ahmet\source\repos\ahmet_180201802\ahmet_180201802\obj\Debug\ahmet_180201802.Properties.Resources.resources
+C:\Users\ahmet\source\repos\ahmet_180201802\ahmet_180201802\obj\Debug\ahmet_180201802.csproj.GenerateResource.cache
+C:\Users\ahmet\source\repos\ahmet_180201802\ahmet_180201802\obj\Debug\ahmet_180201802.csproj.CoreCompileInputs.cache
+C:\Users\ahmet\source\repos\ahmet_180201802\ahmet_180201802\obj\Debug\ahmet_180201802.exe
+C:\Users\ahmet\source\repos\ahmet_180201802\ahmet_180201802\obj\Debug\ahmet_180201802.pdb

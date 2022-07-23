@@ -1,0 +1,10 @@
+C:\Users\ahmet\source\repos\image002\image002\bin\Debug\image002.exe.config
+C:\Users\ahmet\source\repos\image002\image002\bin\Debug\image002.exe
+C:\Users\ahmet\source\repos\image002\image002\bin\Debug\image002.pdb
+C:\Users\ahmet\source\repos\image002\image002\obj\Debug\image002.csprojAssemblyReference.cache
+C:\Users\ahmet\source\repos\image002\image002\obj\Debug\image002.Form1.resources
+C:\Users\ahmet\source\repos\image002\image002\obj\Debug\image002.Properties.Resources.resources
+C:\Users\ahmet\source\repos\image002\image002\obj\Debug\image002.csproj.GenerateResource.cache
+C:\Users\ahmet\source\repos\image002\image002\obj\Debug\image002.csproj.CoreCompileInputs.cache
+C:\Users\ahmet\source\repos\image002\image002\obj\Debug\image002.exe
+C:\Users\ahmet\source\repos\image002\image002\obj\Debug\image002.pdb
